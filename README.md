@@ -47,7 +47,8 @@ The tool is structured into several modules, each responsible for a part of the 
    reproject_and_calculate_area('<input_raster>', '<output_reprojected_raster>')
    ```
 
-Replace the placeholders (`<path_to_...>`) with the actual file paths.
+### Example Usage
+To demonstrate how the NDWI-WaterAnalysis tool can be used, please refer to the `example_usage.py` script. This script provides a practical example of processing satellite images to calculate the NDWI, extract water surfaces, and calculate water area using the modules provided. Make sure to update the script with the actual paths to your own satellite image files and desired output locations.
 
 ## Contributing
 Contributions to NDWI-WaterAnalysis are welcome. To contribute:
