@@ -50,6 +50,10 @@ The tool is structured into several modules, each responsible for a part of the 
 ### Example Usage
 To demonstrate how the NDWI-WaterAnalysis tool can be used, please refer to the `example_usage.py` script. This script provides a practical example of processing satellite images to calculate the NDWI, extract water surfaces, and calculate water area using the modules provided. Make sure to update the script with the actual paths to your own satellite image files and desired output locations.
 
+![Three Rivers](PGH-23-MAY-V1.png)
+
+![Three Rivers](PGH-23-MAY-V2.png)
+
 ## Contributing
 Contributions to NDWI-WaterAnalysis are welcome. To contribute:
 1. Fork the repository.
