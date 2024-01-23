@@ -1,6 +1,6 @@
-from ndwi_calculation import calculate_ndwi
-from water_extraction import extract_water_surfaces
-from water_area_calculation import calculate_water_area_before_reprojection, reproject_and_calculate_area
+from scripts.ndwi_calculation import calculate_ndwi
+from scripts.water_extraction import extract_water_surfaces
+from scripts.water_area_calculation import calculate_water_area_before_reprojection, reproject_and_calculate_area
 
 # Define paths for the input images and output results
 green_band_path = '/path/to/your/PGH_Sentinel2_Image_BAND3.tif'

@@ -1,7 +1,7 @@
 # Import necessary functions from other scripts
-from ndwi_calculation import calculate_ndwi
-from water_extraction import extract_water_surfaces
-from water_area_calculation import calculate_water_area_before_reprojection, reproject_and_calculate_area
+from scripts.ndwi_calculation import calculate_ndwi
+from scripts.water_extraction import extract_water_surfaces
+from scripts.water_area_calculation import calculate_water_area_before_reprojection, reproject_and_calculate_area
 
 # Define the main function of the application
 def main():
