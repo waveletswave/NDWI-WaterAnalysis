@@ -68,6 +68,4 @@ For any queries or further assistance, please contact [waveletswave](mailto:yiyu
 
 ### Notes
 - Replace `<path_to_...>` and other placeholders with relevant instructions or examples specific to your project.
-- Ensure you have a `LICENSE` file in your repository if you're referencing it in the README.
-- Adjust the contact information as per your preference.
 - Feel free to add or modify sections according to the specifics of your project, such as adding a 'Data Sources' section if you want to specify or recommend particular satellite data sets.
